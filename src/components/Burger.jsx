@@ -7,7 +7,7 @@ const Burger = (props) => {
     <li className="menu-burger">
       <div className="image-container">
         <img
-          src={`url(https://nklj.github.io/BurgerShop/images${image})`}
+          src={`url(https://nklj.github.io/BurgerShop${image})`}
           alt={name}
         />
       </div>
