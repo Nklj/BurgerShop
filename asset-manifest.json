@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/BurgerShop/static/css/main.557dc9a1.chunk.css",
-    "main.js": "/BurgerShop/static/js/main.45c16632.chunk.js",
-    "main.js.map": "/BurgerShop/static/js/main.45c16632.chunk.js.map",
+    "main.js": "/BurgerShop/static/js/main.96c93a5a.chunk.js",
+    "main.js.map": "/BurgerShop/static/js/main.96c93a5a.chunk.js.map",
     "runtime-main.js": "/BurgerShop/static/js/runtime-main.06f66b4f.js",
     "runtime-main.js.map": "/BurgerShop/static/js/runtime-main.06f66b4f.js.map",
-    "static/js/2.a869183f.chunk.js": "/BurgerShop/static/js/2.a869183f.chunk.js",
-    "static/js/2.a869183f.chunk.js.map": "/BurgerShop/static/js/2.a869183f.chunk.js.map",
+    "static/js/2.f49a6013.chunk.js": "/BurgerShop/static/js/2.f49a6013.chunk.js",
+    "static/js/2.f49a6013.chunk.js.map": "/BurgerShop/static/js/2.f49a6013.chunk.js.map",
     "index.html": "/BurgerShop/index.html",
-    "precache-manifest.dab7052fcb912b29df4c3bc2ecbd1a07.js": "/BurgerShop/precache-manifest.dab7052fcb912b29df4c3bc2ecbd1a07.js",
+    "precache-manifest.2d023fe7d896051e0c107fa72c3fbf47.js": "/BurgerShop/precache-manifest.2d023fe7d896051e0c107fa72c3fbf47.js",
     "service-worker.js": "/BurgerShop/service-worker.js",
     "static/css/main.557dc9a1.chunk.css.map": "/BurgerShop/static/css/main.557dc9a1.chunk.css.map",
     "static/media/style.css": "/BurgerShop/static/media/up.2a5cfc3e.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.06f66b4f.js",
-    "static/js/2.a869183f.chunk.js",
+    "static/js/2.f49a6013.chunk.js",
     "static/css/main.557dc9a1.chunk.css",
-    "static/js/main.45c16632.chunk.js"
+    "static/js/main.96c93a5a.chunk.js"
   ]
 }
