@@ -2,6 +2,7 @@
   "name": "hot-burgers",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://nklj.github.io/BurgerShop/",
   "dependencies": {
     "firebase": "8.2.6",
     "re-base": "^4.0.0",
