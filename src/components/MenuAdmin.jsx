@@ -13,7 +13,7 @@ class MenuAdmin extends Component {
     const { user, photo } = this.state;
     const avatar = photo
       ? photo
-      : "`url(https://nklj.github.io/BurgerShop/images/avatar.png)`";
+      : `https://nklj.github.io/BurgerShop/images/avatar.png`;
     return (
       <div className="menu-admin">
         {user ? (

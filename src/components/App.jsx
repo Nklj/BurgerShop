@@ -6,7 +6,6 @@ import MenuAdmin from "./MenuAdmin";
 import Burger from "./Burger";
 import sampleBurgers from "../sample-burgers";
 import base from "../base";
-import firebase from "firebase/app";
 
 class App extends React.Component {
   state = {
