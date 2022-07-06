@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/BurgerShop/static/css/main.557dc9a1.chunk.css",
-    "main.js": "/BurgerShop/static/js/main.bfafe531.chunk.js",
-    "main.js.map": "/BurgerShop/static/js/main.bfafe531.chunk.js.map",
+    "main.js": "/BurgerShop/static/js/main.bc734d83.chunk.js",
+    "main.js.map": "/BurgerShop/static/js/main.bc734d83.chunk.js.map",
     "runtime-main.js": "/BurgerShop/static/js/runtime-main.06f66b4f.js",
     "runtime-main.js.map": "/BurgerShop/static/js/runtime-main.06f66b4f.js.map",
     "static/js/2.3d0812fd.chunk.js": "/BurgerShop/static/js/2.3d0812fd.chunk.js",
     "static/js/2.3d0812fd.chunk.js.map": "/BurgerShop/static/js/2.3d0812fd.chunk.js.map",
     "index.html": "/BurgerShop/index.html",
-    "precache-manifest.07f7491aedb524be3c6c04a940e94e89.js": "/BurgerShop/precache-manifest.07f7491aedb524be3c6c04a940e94e89.js",
+    "precache-manifest.6ea286514a57a99dc65042a1958e0779.js": "/BurgerShop/precache-manifest.6ea286514a57a99dc65042a1958e0779.js",
     "service-worker.js": "/BurgerShop/service-worker.js",
     "static/css/main.557dc9a1.chunk.css.map": "/BurgerShop/static/css/main.557dc9a1.chunk.css.map",
     "static/media/style.css": "/BurgerShop/static/media/up.2a5cfc3e.svg"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.06f66b4f.js",
     "static/js/2.3d0812fd.chunk.js",
     "static/css/main.557dc9a1.chunk.css",
-    "static/js/main.bfafe531.chunk.js"
+    "static/js/main.bc734d83.chunk.js"
   ]
 }
